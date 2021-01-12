@@ -1,4 +1,4 @@
-package com.zhou.lib.api.service;
+package com.zhou.lib.api.service.book;
 
 import com.zhou.lib.api.constants.ResultDTO;
 import com.zhou.lib.api.model.book.BookClassDTO;
